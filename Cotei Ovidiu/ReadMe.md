@@ -1,13 +1,6 @@
 Aplicatie creata de Cotei Ovidiu (Ovy Kode).
 Aplicatia se bazeaza pe Augumented Reality (AR)
 Images Application: 
-https://imgur.com/g1s8NgU
-https://imgur.com/J6pFXn4
-https://imgur.com/8OzBrDQ
-https://imgur.com/uNh0t29
-https://imgur.com/2c08CVq
-https://imgur.com/oort81a
-https://imgur.com/sowCATq
 ![1](https://user-images.githubusercontent.com/29335414/51497322-73360f00-1dcb-11e9-9165-4fe630ec6b60.jpg)
 ![2](https://user-images.githubusercontent.com/29335414/51497369-99f44580-1dcb-11e9-9392-156ddaad7020.jpg)
 ![3](https://user-images.githubusercontent.com/29335414/51497409-b09a9c80-1dcb-11e9-84c7-3a053787af73.jpg)
